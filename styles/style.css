@@ -101,3 +101,19 @@ h3 {
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
 } 
+
+
+@media(max-width:400px){
+  html{
+      font-size: 10px;
+  }
+  aside{
+      width:10rem;
+  }
+  .users,h3{
+      font-size: 1.5rem;
+  }
+}
+
+
+
